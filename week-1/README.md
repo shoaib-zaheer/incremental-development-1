@@ -42,7 +42,8 @@
 
 > First things first:
 > - [Review the Weekly Assignments guide](https://home.hackyourfuture.be/students/weekly-assignments)
-> - [Create your Homework Issue](https://home.hackyourfuture.be/students/homework-submission#homework-issues)
+> - [Create your Homework Issue](https://home.hackyourfuture.be/students/homework-issues)
+> - your issue should have 18 check-boxes
 
 There is _a lot_ of prep work for this week, but it's doable!  Remember that the goal of prep work isn't to understand everything in depth.  It's just to be familiar so that you're not hearing about these topics for the first time on Sunday.
 
@@ -62,7 +63,7 @@ This module's main objective is to learn how Git & GitHub can be used to organiz
 - [What is this?](https://www.youtube.com/watch?v=GzzkpAOxHXs)
 - [Agile Development by Cartoon](https://www.youtube.com/watch?v=Z9QbYZh1YXY&list=PLBUu5aGDLKnbeEx8U-5r436bw6p9wv1rS)
 - [Splitting User Stories](https://www.youtube.com/watch?v=EDT0HMtDwYI)
-- [The "what" not the "how"](https://duckduckgo.com/?q=what+are+user+stories&t=brave&iax=videos&ia=videos&iai=Pn-QMvDTuEY)
+- [Three key parts](https://www.youtube.com/watch?v=ctFzjMygaRo)
 
 ### Relative vs. Absolute Paths
 
@@ -78,6 +79,13 @@ Not very complicated but a little tricky at first.   This will come up _all the 
 ### HTML 5 Semantic Layout
 
 - [study.hackyourfuture.be](https://study.hackyourfuture.be/html-css/html#semantic-layout)
+
+### WireFrames
+
+* [What are these things?](https://www.youtube.com/results?search_query=what+are+wireframes)
+* [Why are these so great?](https://medium.com/@ray_vevaina/wireframing-a-front-end-developers-best-friend-c541df51ea65)
+* [wireframe.cc - online wireframes](https://wireframe.cc/)
+
 
 ---
 ---
@@ -95,7 +103,7 @@ Build _another_ group intro repository?!  Your main focus this time will be unde
 While in your small groups each group member will create _their own_ repository.  You can help each other all you need to, but you will each need to work on a separate project. There is no need to fork or send pull requests (that's for next week).
 
 - a completed example to study: [Team Branchies](https://github.com/HackYourFutureBelgium/team-branchies)
-- to get you started: [a template development strategy](../integrate/development-strategy-team-repo.md)
+- to get you started: [a template development strategy](../isolate/development-strategy-team-repo.md)
 
 ### Integrate
 
@@ -105,7 +113,7 @@ Connect what you've learned about development strategies, Git & GitHub with what
 - [wireframe](../integrate/wireframe.gif)
 - [starter repo](https://github.com/hackyourfuturebelgium/w3-validation-template) (project starter repo)
 
-Example project to study: [separated](https://github.com/hackyourfuturebelgium/built-with-branches), [stepped](../integrate/all-about-trees-stepped)
+All About Trees (example project): [separated](https://github.com/hackyourfuturebelgium/built-with-branches), [stepped](../integrate/all-about-trees-stepped)
 
 ---
 ---
@@ -144,11 +152,21 @@ Example project to study: [separated](https://github.com/hackyourfuturebelgium/b
 
 ### Project
 
+#### Check-List
+
+```md
+- [ ] [repo](https://github.com/user-name/project-name)
+- [ ] [live](https://user-name.github.io/project-name)
+- [ ] [development-strategy](https://github.com/user-name/project-name/tree/master/development-strategy.md)
+- [ ] [One branch per step in my `development-strategy.md`](https://github.com/user-name/repo-name/network)
+- [ ] A complete README
+```
+
 #### `acme-web-design`
 
 > [Code-Along](https://home.hackyourfuture.be/students/weekly-assignments#projects)
 
-This week's project is to study and reverse-engineer the __acme-web-design__ tutorial from Traversy Media.
+This week's project is to study and reverse-engineer the [__acme-web-design__ tutorial from Traversy Media](https://www.youtube.com/watch?v=Wm6CUkswsNw).
 
 Writing the same code as Mr. Traversy's code is not enough! You are expected to submit your code from his tutorial in a new repository [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [this starter template](https://github.com/HackYourFutureBelgium/w3-validation-template).  Your repository should be named `acme-web-design` and should be cleanly developed with one branch per step.  It's up to you to write the development strategy!
 

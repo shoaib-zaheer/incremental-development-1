@@ -14,7 +14,8 @@ write a short description of your web page:
 
 ## 0. Set-Up
 
-__A User can see my initial repository and live demo__
+__As a fellow developer I can see the prepared repository__  
+__As a site visitor, I can see an empty site at the correct URL__
 
 ### Branch
 
@@ -28,13 +29,13 @@ __A User can see my initial repository and live demo__
 
 ---
 
-## 1. User Story: title
+## 1. title
 
 __As a site visitor, I want to know what the web page is called__
 
 ### Branches
 
-1. This user story was developed on a brach called `1-title`
+1. This user story was developed on a brach called `title`
 1. It was merged to `master` when the feature was finished.
 
 ### HTML
@@ -49,13 +50,13 @@ __As a site visitor, I want to know what the web page is called__
 
 ---
 
-## 2. User Story: introduction
+## 2. introduction
 
 __As a site visitor, I want to read an introduction to this web page__
 
 ### Branches
 
-1. This user story was developed on a brach called `2-introduction`
+1. This user story was developed on a brach called `introduction`
 1. It was merged to `master` when the feature was finished.
 
 ### HTML
@@ -69,13 +70,13 @@ Styling for the new element
 
 ---
 
-## 3. User Story: main text
+## 3. main text
 
 __As a site visitor, I want to learn about something cool__
 
 ### Branches
 
-1. This user story was developed on a brach called `3-main-text`
+1. This user story was developed on a brach called `main-text`
 1. It was merged to `master` when the feature was finished.
 
 ### HTML
@@ -89,13 +90,13 @@ Styling for the new element
 
 ---
 
-## 4. User Story: references
+## 4. references
 
 __As a site visitor, I want to know where I can learn more__
 
 ### Branches
 
-1. This user story was developed on a brach called `4-references`
+1. This user story was developed on a brach called `references`
 1. It was merged to `master` when the feature was finished.
 
 ### HTML

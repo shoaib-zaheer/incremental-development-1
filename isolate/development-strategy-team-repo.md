@@ -25,13 +25,13 @@ __A User can see my initial repository and live demo__
 
 ---
 
-## 1. User Story: about your team
+## 1. about your team
 
 __As a site visitor, I want to know about your team and who is in it__
 
 ### Repo
 
-This user story was developed on a brach called `1-about-team`
+This user story was developed on a brach called `about-team`
 
 ### README.md
 
@@ -39,13 +39,13 @@ Wrote an introduction to the team and added a list with all of our names.
 
 ---
 
-## 2. User Story: introducing _name_
+## 2. introducing _name_
 
 __As a site visitor, I want to learn more about *name*__
 
 ### Repo
 
-This user story was developed on a brach called `2-name`
+This user story was developed on a brach called `name`
 
 ### name.md
 
@@ -57,13 +57,13 @@ Change this team member's name on the list into a link to their new profile page
 
 ---
 
-## 3. User Story: introducing _name_
+## 3.  introducing _name_
 
 __As a site visitor, I want to learn more about *name*__
 
 ### Repo
 
-This user story was developed on a brach called `3-name`
+This user story was developed on a brach called `name`
 
 ### name.md
 
