@@ -115,7 +115,7 @@ Redo the wireframe you built last week, but with collaboration!
   - [bashcrawl](https://gitlab.com/slackermedia/bashcrawl/) - clone & play
   - [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) - online
   - [iTerm](https://sr6033.github.io/lterm/) - online
-- [A huge cheat sheet](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
+- [A huge cheat sheet](https://gist.github.com/LeCoupa/122b12050f5fb267e75f) (for bash)
 
 ---
 
@@ -131,7 +131,7 @@ Redo the wireframe you built last week, but with collaboration!
 
 ### Project
 
-#### Check-List
+#### Checklist
 
 ```md
 - [ ] [repo](https://github.com/user-name/project-name)
